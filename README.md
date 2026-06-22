@@ -1,22 +1,24 @@
-# Hi there, I'm Galih Duwiki Gilang Pamungkas 👋
+# 💫 About Me:
+# Hi there, I'm Galih Duwiki Gilang Pamungkas 👋<br><br>I'm an Electrical Engineering student (Semester 8) at Telkom University with a strong passion for **Embedded Systems**, **Hardware/PCB Design**, and **Machine Learning**. I enjoy bridging the gap between hardware and intelligent software.<br><br>### 🔭 Currently Working On<br>*   **Final Year Project (TA):** Developing an embedded K-Nearest Neighbors (KNN) machine learning algorithm to classify arrhythmia conditions. This involves processing real-time data from MAX30102 sensors within a lab-scale prototype boundary, including designing a custom PCB for a multi-sensor PPG fusion system.<br><br>### 🌱 Past Projects & Research<br>*   **EV Prototype Chassis (KMHE 2025):** Led the entire technical design and structural analysis process for an Electric Vehicle prototype chassis intended for the Kontes Mobil Hemat Energi.<br>*   **Coffee Classification System:** Developed a classification system based on gas sensor measurements (MQ2 and MQ135) using a binary logistic regression algorithm.<br>*   **BRIN Research Project:** Directly involved in the research project for a 10 KW BLDC Motor Control System.<br><br>### 💼 Experience<br>*   **Internship:** Electrical Maintenance Execution Intern at PT Kilang Pertamina Internasional RU VI Balongan (Maintenance Area 1, Unit RCC).<br>*   **Lab Assistant:** Active assistant at INACOS Laboratory, which included participating in a collaboration project with Hanbat National University in Cheonan, South Korea.<br>*   **Marketing:** Chief Marketing Officer (CMO) for a clothing brand.<br><br>### ⚡ Fun Facts<br>When I'm not routing PCBs or debugging code, you can find me rolling on the mats (BJJ/MMA), playing Padel, tuning my motorcycle engine (currently running a 13.2 compression ratio!), or grinding Valorant.<br><br>---<br>📫 **How to reach me:** [click my social media]
 
-I'm an Electrical Engineering student (Semester 8) at Telkom University with a strong passion for **Embedded Systems**, **Hardware/PCB Design**, and **Machine Learning**. I enjoy bridging the gap between hardware and intelligent software.
 
-### 🔭 Currently Working On
-*   **Final Year Project (TA):** Developing an embedded K-Nearest Neighbors (KNN) machine learning algorithm to classify arrhythmia conditions. This involves processing real-time data from MAX30102 sensors within a lab-scale prototype boundary, including designing a custom PCB for a multi-sensor PPG fusion system.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/galihgilanggg) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/galihduwikigilangpamungkas) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pamungkasg17@gmail.com) 
 
-### 🌱 Past Projects & Research
-*   **EV Prototype Chassis (KMHE 2025):** Led the entire technical design and structural analysis process for an Electric Vehicle prototype chassis intended for the Kontes Mobil Hemat Energi.
-*   **Coffee Classification System:** Developed a classification system based on gas sensor measurements (MQ2 and MQ135) using a binary logistic regression algorithm.
-*   **BRIN Research Project:** Directly involved in the research project for a 10 KW BLDC Motor Control System.
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![PlatformIO](https://img.shields.io/badge/PlatformIO-%23222.svg?style=for-the-badge&logo=platformio&logoColor=%23f5822a) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=galihgilanggg&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=galihgilanggg&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=galihgilanggg&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 💼 Experience
-*   **Internship:** Electrical Maintenance Execution Intern at PT Kilang Pertamina Internasional RU VI Balongan (Maintenance Area 1, Unit RCC).
-*   **Lab Assistant:** Active assistant at INACOS Laboratory, which included participating in a collaboration project with Hanbat National University in Cheonan, South Korea.
-*   **Marketing:** Chief Marketing Officer (CMO) for a clothing brand.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=galihgilanggg&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ⚡ Fun Facts
-When I'm not routing PCBs or debugging code, you can find me rolling on the mats (BJJ/MMA), playing Padel, tuning my motorcycle engine (currently running a 13.2 compression ratio!), or grinding Valorant.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=galihgilanggg&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-📫 **How to reach me:** [www.linkedin.com/in/galihduwikigilangpamungkas]
+[![](https://komarev.com/ghpvc/?username=galihgilanggg&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
